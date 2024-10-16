@@ -5,4 +5,8 @@ WinRAR developers: they are underrated
 # Command:
 python main.py <bat_file> <exe_file>
 # Requirements:
-Supported Windows 10 or upper \nPython 3.12 \nSubprocess module
+Supported Windows 10 or upper
+
+Python 3.12
+
+Subprocess module
